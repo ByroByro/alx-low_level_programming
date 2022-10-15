@@ -3,9 +3,9 @@
 #include<time.h>
 
 /**
- * main assigns a random integer to n everytime
+ * main - assigns a random integer to n everytime
  * integer either pos or neg
- * returnd zero always
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
